@@ -26,6 +26,9 @@ are found, but do not store more than 3500 solutions.
 Examples:
 
 ![alt text](https://raw.githubusercontent.com/Manteliz/SudokuSolver/master/pictures/sudoku3.png)
+
 ![alt text](https://raw.githubusercontent.com/Manteliz/SudokuSolver/master/pictures/sudoku4.png)
+
 ![alt text](https://raw.githubusercontent.com/Manteliz/SudokuSolver/master/pictures/sudoku5.png)
+
 ![alt text](https://raw.githubusercontent.com/Manteliz/SudokuSolver/master/pictures/sudoku6.png)
