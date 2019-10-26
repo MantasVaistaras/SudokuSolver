@@ -14,9 +14,6 @@ If we need more than 9 values, we use the following:
 
 ![alt text](https://raw.githubusercontent.com/Manteliz/SudokuSolver/master/pictures/sudoku2.png)
 
-The printout from the example above should be like this (unsolved
-to the left):
-
 The solutions are found by going through all the regions on the board and trying all of the
 possible (legal) values in each region. This is called the "Brute-force" method.
 
