@@ -23,12 +23,19 @@ possible (legal) values in each region. This is called the "Brute-force" method.
 If there are more solutions than 3500, the program keeps track the number of how many solutions
 are found, but do not store more than 3500 solutions.
 
-Examples:
+Example 1:
 
 ![alt text](https://raw.githubusercontent.com/Manteliz/SudokuSolver/master/pictures/sudoku3.png)
 
+Example 2:
+
 ![alt text](https://raw.githubusercontent.com/Manteliz/SudokuSolver/master/pictures/sudoku4.png)
+
+Example 3:
 
 ![alt text](https://raw.githubusercontent.com/Manteliz/SudokuSolver/master/pictures/sudoku5.png)
 
+Example 4:
+
 ![alt text](https://raw.githubusercontent.com/Manteliz/SudokuSolver/master/pictures/sudoku6.png)
+
