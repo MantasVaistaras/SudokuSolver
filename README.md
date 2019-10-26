@@ -4,8 +4,8 @@ The program which can solve sudoku. It can also solve sudoku boards which do not
 
 ![alt text](http://url/to/img.png)
 
-The file format used
-To save sudoku tasks, we have defined our own file format. This 6 × 6 board is described by the file above. Note that the file does not contain any blank characters.
+The file format used:
+The file name is specified as the parameter of the program (on the command line). This 6 × 6 board is described by the file above. Note that the file does not contain any blank characters.
 
 The first number (2) is the number of rows in each box, and the next number (3) is the number of columns
 in each box. 2 × 3 = 6. The board is then 6 × 6 = 36 regions. 6 is also the number of regions
