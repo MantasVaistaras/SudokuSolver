@@ -17,8 +17,7 @@ If we need more than 9 values, we use the following:
 The solutions are found by going through all the regions on the board and trying all of the
 possible (legal) values in each region. This is called the "Brute-force" method.
 
-If there are more solutions than 3500, the program keeps track the number of how many solutions
-are found, but do not store more than 3500 solutions.
+If there are more solutions than 3500, the program keeps track of the count of solutions but do not store more than 3500 solutions.
 
 Example 1:
 
